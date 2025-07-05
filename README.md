@@ -3,6 +3,9 @@
 A beautiful, responsive weather application built with React.js that provides real-time weather information for any location worldwide! 🌍 This modern web app features a stunning glassmorphism design with smooth animations and mobile-first responsive layout.
 
 
+![Screenshot 2025-07-05 150846](https://github.com/user-attachments/assets/cb22480f-b2a1-459d-9866-4133d2ff6c23)
+
+
 ## 🛠️ Technologies & Tools Used
 
 - ⚛️ **React.js** - Modern JavaScript framework
